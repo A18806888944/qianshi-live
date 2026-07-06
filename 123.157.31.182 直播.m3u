@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live",CCTV1HD
+http://123.157.31.182:7912/rtp/233.50.201.118:5140
+#EXTINF:-1 group-title="Live",CCTV2HD
+http://123.157.31.182:7912/rtp/233.50.201.119:5140
+#EXTINF:-1 group-title="Live",CCTV3HD
+http://123.157.31.182:7912/rtp/233.50.201.196:5140
+#EXTINF:-1 group-title="Live",CCTV5HD
+http://123.157.31.182:7912/rtp/233.50.201.195:5140
+#EXTINF:-1 group-title="Live",CCTV6HD
+http://123.157.31.182:7912/rtp/233.50.201.198:5140
+#EXTINF:-1 group-title="Live",CCTV7HD
+http://123.157.31.182:7912/rtp/233.50.201.120:5140
+#EXTINF:-1 group-title="Live",CCTV8HD
+http://123.157.31.182:7912/rtp/233.50.201.199:5140
+#EXTINF:-1 group-title="Live",CCTV9HD
+http://123.157.31.182:7912/rtp/233.50.201.121:5140
+#EXTINF:-1 group-title="Live",CCTV10HD
+http://123.157.31.182:7912/rtp/233.50.201.122:5140
+#EXTINF:-1 group-title="Live",CCTV12HD
+http://123.157.31.182:7912/rtp/233.50.201.123:5140
+#EXTINF:-1 group-title="Live",CCTV13HD
+http://123.157.31.182:7912/rtp/233.50.201.246:5140
+#EXTINF:-1 group-title="Live",CCTV14HD
+http://123.157.31.182:7912/rtp/233.50.201.124:5140
+#EXTINF:-1 group-title="Live",CCTV16HD
+http://123.157.31.182:7912/rtp/233.50.201.192:5140
+#EXTINF:-1 group-title="Live",北京卫视4K
+http://123.157.31.182:7912/rtp/233.50.201.226:5140
+#EXTINF:-1 group-title="Live",东方卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.105:5140
+#EXTINF:-1 group-title="Live",广东卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.101:5140
+#EXTINF:-1 group-title="Live",深圳卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.102:5140
+#EXTINF:-1 group-title="Live",湖南卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.106:5140
+#EXTINF:-1 group-title="Live",山东卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.108:5140
+#EXTINF:-1 group-title="Live",四川卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.109:5140
+#EXTINF:-1 group-title="Live",浙江卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.104:5140
+#EXTINF:-1 group-title="Live",江苏卫视4K
+http://123.157.31.182:7912/rtp/233.50.202.107:5140
+#EXTINF:-1 group-title="Live",重庆卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.143:5140
+#EXTINF:-1 group-title="Live",天津卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.104:5140
+#EXTINF:-1 group-title="Live",贵州卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.142:5140
+#EXTINF:-1 group-title="Live",黑龙江卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.115:5140
+#EXTINF:-1 group-title="Live",安徽卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.113:5140
+#EXTINF:-1 group-title="Live",江西卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.145:5140
+#EXTINF:-1 group-title="Live",湖北卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.114:5140
+#EXTINF:-1 group-title="Live",东南卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.146:5140
+#EXTINF:-1 group-title="Live",辽宁卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.141:5140
+#EXTINF:-1 group-title="Live",河南卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.144:5140
+#EXTINF:-1 group-title="Live",河北卫视HD
+http://123.157.31.182:7912/rtp/233.50.201.140:5140
+#EXTINF:-1 group-title="Live",宁夏卫视HD
+http://123.157.31.182:7912/rtp/233.50.202.45:5140
+#EXTINF:-1 group-title="Live",新疆卫视HD
+http://123.157.31.182:7912/rtp/233.50.202.46:5140
+#EXTINF:-1 group-title="Live",西藏卫视HD
+http://123.157.31.182:7912/rtp/233.50.202.43:5140
+#EXTINF:-1 group-title="Live",兵团卫视HD
+http://123.157.31.182:7912/rtp/233.50.202.44:5140
+#EXTINF:-1 group-title="Live",卡酷少儿HD
+http://123.157.31.182:7912/rtp/233.50.202.33:5140
+#EXTINF:-1 group-title="Live",凤凰中文HD
+http://123.157.31.182:7912/rtp/233.50.202.35:5140
+#EXTINF:-1 group-title="Live",浙江少儿HD
+http://123.157.31.182:7912/rtp/233.50.201.138:5140
+#EXTINF:-1 group-title="Live",NBTV-1HD
+http://123.157.31.182:7912/rtp/233.50.201.168:5140
+#EXTINF:-1 group-title="Live",NBTV-2HD
+http://123.157.31.182:7912/rtp/233.50.201.178:5140
+#EXTINF:-1 group-title="Live",NBTV-3HD
+http://123.157.31.182:7912/rtp/233.50.201.179:5140
+#EXTINF:-1 group-title="Live",NBTV-4HD
+http://123.157.31.182:7912/rtp/233.50.201.180:5140
+#EXTINF:-1 group-title="Live",睛彩篮球HD
+http://123.157.31.182:7912/rtp/233.50.202.27:5140
